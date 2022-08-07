@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalil Farhat</h1>
-<h3 align="center">A lifetime learner, passionate frontend developer</h3>
+<h3 align="center">A lifetime learner, Passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 👯 I’m looking to collaborate on **any frontend project**
+- 👯 I’m looking to collaborate on **any frontend project with Angular**
 
 - 📫 How to reach me **khalilxfarhat9@gmail.com**
 
